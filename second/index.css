@@ -1,0 +1,20 @@
+.box{
+    height: 100vh;
+    width: calc(100% / 3);
+    background: cyan;
+    float: left;
+}
+
+.middle{
+    background: lightseagreen;
+}
+
+.right{
+    background: red;
+}
+
+.top{
+    height: 70vh;
+    width: 100%;
+    background: yellowgreen;
+}

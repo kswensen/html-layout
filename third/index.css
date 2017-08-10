@@ -1,0 +1,44 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.box{
+    height: 15vh;
+    width: 100%;
+    background: lightgrey;
+}
+
+.header{
+    padding: 16px 32px;
+}
+
+.box section{
+    height: 12vh;
+    width: 12vh;
+    float: left;
+    background: blue;
+}
+
+.text_box{
+    background: white;
+    height: 25vh;
+}
+
+.third{
+    background: skyblue;
+}
+
+.fourth{
+    background: lightseagreen;
+}
+
+.fifth{
+    background: greenyellow;
+}
+
+.sixth{
+    background: goldenrod;
+}
